@@ -75,4 +75,6 @@ In this example, `MyScreen` is a composable function that displays the `Draggabl
 With the `DraggableLazyList` component, you can easily create a Jetpack Compose `LazyColumn` that supports long press and drag-and-drop functionality. Feel free to customize the appearance and behavior of the items to fit your specific needs.
 
 Enjoy using Jetpack Compose with draggable lists!
-![Uploading ezgif.com-optimize.gif…]()
+
+
+![ezgif com-optimize](https://github.com/parniyan7/DraggableLazyColumnCompose/assets/51333944/c32ab641-2398-4dcf-a6d9-f9fd779113a0)
