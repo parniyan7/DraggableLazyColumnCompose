@@ -71,8 +71,8 @@ fun generateItemList(): List<ListItem> {
 In this example, `MyScreen` is a composable function that displays the `DraggableLazyList` with a list of items. The `onSwap` callback swaps the items at the given indexes in the list.
 
 
-[Screen_recording_20231202_034120.webm](https://github.com/parniyan7/DraggableLazyColumnCompose/assets/51333944/18b554be-9826-4974-aef0-47586742ee07)
 
 With the `DraggableLazyList` component, you can easily create a Jetpack Compose `LazyColumn` that supports long press and drag-and-drop functionality. Feel free to customize the appearance and behavior of the items to fit your specific needs.
 
 Enjoy using Jetpack Compose with draggable lists!
+![Uploading ezgif.com-optimize.gif…]()
